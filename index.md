@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+# About
 
-You can use the [editor on GitHub](https://github.com/grandesu/masa1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+足掛け3年の独学エンジニア、自分でWebページを作りたくて、試行錯誤の連続
+主にバックエンドの方面の仕事をこなす、ただ独立志向が強く、フロントエンドも勉強中
+47歳と言う、社会経験が豊富な所、長男、また飲食での店長経験、自分で事業をしていた経験を活かして、多方面でトータルプロデュースをする
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/grandesu/masa1/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Profile
+- Masa Grandesu age 47
+- toda and shibuya
+- node.js,php
